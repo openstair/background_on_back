@@ -1,8 +1,7 @@
 name: background_on_back
 description: "Flutter plugin to handle backgound the app on pressing back button instead of quitting app."
-version: 0.0.1
-homepage: https://github.com/vnegi1011/background_on_back
-repository: https://github.com/vnegi1011/background_on_back
+version: 1.0.0
+homepage: https://github.com/medha-labs/background_on_back
 
 environment:
   sdk: ^3.7.2

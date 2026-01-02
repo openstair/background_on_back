@@ -11,17 +11,26 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: PopScope(
+      home: MyHomePage(),
+    );
+  }
+}
+
+class MyHomePage extends StatelessWidget {
+  const MyHomePage({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return PopScope(
         canPop: false,
         onPopInvokedWithResult: (didPop, result) {
           if (didPop) return;
           BackgroundOnBack.pop();
         },
         child: Scaffold(
-          appBar: AppBar(title: const Text('Plugin example app')),
-          body: Center(child: Text('Press Back button to backgroun this app')),
+          appBar: AppBar(title: const Text('Homepage')),
+          body: Center(child: Text('Hassle free solution for android BACK press')),
         ),
-      ),
-    );
+      );
   }
 }
