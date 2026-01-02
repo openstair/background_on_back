@@ -1,4 +1,4 @@
-package com.coredev.background_on_back
+package dev.medhalabs.background_on_back
 
 import android.app.Activity
 import io.flutter.embedding.engine.plugins.FlutterPlugin

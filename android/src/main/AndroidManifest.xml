@@ -1,3 +1,3 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-  package="com.coredev.background_on_back">
+  package="dev.medhalabs.background_on_back">
 </manifest>

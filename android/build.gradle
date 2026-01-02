@@ -1,4 +1,4 @@
-group = "com.coredev.background_on_back"
+group = "dev.medhalabs.background_on_back"
 version = "1.0-SNAPSHOT"
 
 buildscript {
@@ -25,7 +25,7 @@ apply plugin: "com.android.library"
 apply plugin: "kotlin-android"
 
 android {
-    namespace = "com.coredev.background_on_back"
+    namespace = "dev.medhalabs.background_on_back"
 
     compileSdk = 35
 
