@@ -1,4 +1,4 @@
-package dev.medhalabs.background_on_back_example
+package in.openstair.background_on_back_example
 
 import io.flutter.embedding.android.FlutterActivity
 

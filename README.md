@@ -54,6 +54,5 @@ If you find a bug or want to suggest a feature, please open an issue or submit a
 ## 📄 License
 Distributed under the MIT License. See [[LICENSE](LICENSE)] for more information.
 
-### Code Contributors
-[![Contributors](https://contrib.rocks/image?repo=medha-labs/background_on_back)](https://github.com/medha-labs/background_on_back/graphs/contributors)
 
+Built by OpenStair Technologies

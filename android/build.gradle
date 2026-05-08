@@ -1,4 +1,4 @@
-group = "dev.medhalabs.background_on_back"
+group = "in.openstair.background_on_back"
 version = "1.0-SNAPSHOT"
 
 buildscript {
@@ -25,7 +25,7 @@ apply plugin: "com.android.library"
 apply plugin: "kotlin-android"
 
 android {
-    namespace = "dev.medhalabs.background_on_back"
+    namespace = "in.openstair.background_on_back"
 
     compileSdk = 35
 

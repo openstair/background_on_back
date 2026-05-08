@@ -1,4 +1,4 @@
-package dev.medhalabs.background_on_back
+package in.openstair.background_on_back
 
 import io.flutter.plugin.common.MethodCall
 import io.flutter.plugin.common.MethodChannel
