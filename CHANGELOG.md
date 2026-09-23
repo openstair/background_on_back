@@ -1,3 +1,6 @@
+## 1.0.4
+* Bump to AGP 9
+
 ## 1.0.3
 * Bump to AGP 9
 
