@@ -1,3 +1,6 @@
+## 1.0.6
+* SPM - Fixes issues
+
 ## 1.0.5
 * Bump to AGP 9 - Fixes issues
 
